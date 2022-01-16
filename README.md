@@ -2,7 +2,7 @@
 
 ### [Add to your Discord Server!](https://discord.com/api/oauth2/authorize?client\_id=775025797034541107\&permissions=300944400\&scope=bot%20applications.commands)
 
-[Discord Support Server](https://discord.com/invite/yHU6qcgNPy) | [View Documentation](https://www.vcroles.com) | [View GitHub](https://github.com/CDESamBotDev/VCRoles)
+[Discord Support Server](https://discord.com/invite/yHU6qcgNPy) | [View Documentation](https://www.vcroles.com) | [View GitHub](https://github.com/CDESamBotDev/VCRoles) | [Top.gg Page](https://top.gg/bot/775025797034541107) | [Patreon Page](https://www.patreon.com/CDESamBots)
 
 ## Introduction
 
