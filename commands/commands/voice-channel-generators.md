@@ -14,4 +14,4 @@ This command creates a voice channel generator. You can specify a channel or cat
 
 You can use this command to remove the voice channel generator in your server.
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (32) (1).png>)

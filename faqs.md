@@ -61,3 +61,11 @@ If the bot is offline in the members list, this could be for a few reasons:&#x20
 ### **When I try to use TTS it says **_**TTS not enabled**_&#x20;
 
 This is likely because you haven't enabled TTS in your server, to do this, use the command `/ttssetup`. More info can be found on our website here: [https://www.vcroles.com/commands/commands/tts-commands#ttssetup](https://www.vcroles.com/commands/commands/tts-commands#ttssetup)
+
+
+
+### What happens if I delete a channel? Will it become unlinked?
+
+Whenever you delete a voice, stage, or category channel, all role links will be removed from the database immediately.
+
+If you think this hasn't happened, you can use the [Linked](commands/commands/linked.md#linked) command to see all links, and any channels which have been deleted will be shown there. You can then use the [Force Unlink](commands/commands/force-unlinking.md#forceunlink) command to remove the ID.
