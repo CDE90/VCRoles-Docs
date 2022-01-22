@@ -2,6 +2,7 @@
 
 * [Overview](README.md)
 * [Basic Setup](basic-setup.md)
+* [FAQs](faqs.md)
 
 ## Commands
 
