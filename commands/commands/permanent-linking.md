@@ -8,7 +8,7 @@ This is useful for creating a unique user verification system for your server to
 
 This command creates a link between a channel and a role, as specified above.
 
-![permlink command](<../../.gitbook/assets/image (23).png>)
+![permlink command](<../../.gitbook/assets/image (23) (1).png>)
 
 ## /permunlink
 

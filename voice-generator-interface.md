@@ -4,7 +4,7 @@ When you create a new voice channel generator ([using /voicegenerator](commands/
 
 An interface message will get sent to this channel:
 
-![](<.gitbook/assets/image (11).png>)
+![](<.gitbook/assets/image (23).png>)
 
 Reacting to this message with the emojis listed will edit something about your generated VC.
 
@@ -12,8 +12,8 @@ Reacting to this message with the emojis listed will edit something about your g
 * 🔓 - Unlocks your voice channel - allows other members to join your voice channel
 * 🚫 - Hides your voice channel - hides your voice channel from the channels list
 * 👁 - Unhides your voice channel - your voice channel will be revealed on the channels list
-* ➕ - Increases the user limit of your VC - increases the number of people able to join your voice channel
-* ➖ - Decreases the user limit of your VC - decreases the number of people able to join your voice channel **decreasing the limit to 0, allows an unlimited number of people to join**
+* ⬆ - Increases the user limit of your VC - increases the number of people able to join your voice channel
+* ⬇ - Decreases the user limit of your VC - decreases the number of people able to join your voice channel **decreasing the limit to 0, allows an unlimited number of people to join**
 
 ****
 
