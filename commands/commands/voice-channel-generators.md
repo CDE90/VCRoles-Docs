@@ -4,7 +4,7 @@ A voice channel generator is a voice channel that will generate other voice chan
 
 ## /voicegenerator
 
-This command creates a voice channel generator. You can specify a channel or category name if you wish, or can change them manually later.
+This command creates a voice channel generator. You can specify a voice channel, interface chanel, or category name if you wish, or can change them manually later.
 
 ![](<../../.gitbook/assets/image (21).png>)
 

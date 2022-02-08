@@ -3,6 +3,7 @@
 * [Overview](README.md)
 * [Basic Setup](basic-setup.md)
 * [FAQs](faqs.md)
+* [Voice Generator Interface](voice-generator-interface.md)
 
 ## Commands
 

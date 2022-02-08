@@ -46,5 +46,6 @@ This is the bot you need to make your server more interactive, and bring your co
   * Great for users who have no mic and still want to be heard
 * [Voice Channel Generators](commands/commands/voice-channel-generators.md)
   * When a member joins the generator channel a new voice channel is made just for them, and is deleted when there are no more members in the channel.
+  * Generators also come with an interface channel, which contains additional configuration for users' private channels.
 * [Audit logging (for voice channels)](commands/commands/audit-logging.md)
   * See when members join, leave or change voice channels, and the roles that are given/removed by the bot.

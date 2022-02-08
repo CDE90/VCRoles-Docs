@@ -14,4 +14,4 @@ This command creates a link between a channel and a role, as specified above.
 
 Removes a 'permanent' role link.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
