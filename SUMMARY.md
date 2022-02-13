@@ -19,6 +19,7 @@
   * [Linked](commands/commands/linked.md)
   * [Voice Channel Generators](commands/commands/voice-channel-generators.md)
   * [Force Unlinking](commands/commands/force-unlinking.md)
+  * [Interface Commands](commands/commands/interface-commands.md)
 
 ## Misc.
 
