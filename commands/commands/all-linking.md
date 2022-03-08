@@ -4,26 +4,32 @@
 
 All linking will make it so the bot will automatically give the set roles when a member joins any voice channel (that the bot has permission to see). You can create exception channels, which are channels where members aren't given the 'All linked' roles in.
 
-## /alllink
+## /all link
 
 This creates a link between all channels in the server and a role.
 
-![alllink command](<../../.gitbook/assets/image (33).png>)
+![all link command](<../../.gitbook/assets/image (33).png>)
 
-## /allunlink
+## /all unlink
 
-The opposite of the alllink command, this command removes the link between all channels and the specified role.
+The opposite of the all link command, this command removes the link between all channels and the specified role.
 
-![allunlink command](<../../.gitbook/assets/image (18).png>)
+![all unlink command](<../../.gitbook/assets/image (18).png>)
 
-## /allexception
+## /all exception add
 
 This command is used to create an exception to the 'All linked' roles. When a member joins the exception channel, they won't be given the role that's linked to all channels.
 
-![allexception command](<../../.gitbook/assets/image (9).png>)
+![all exception command](<../../.gitbook/assets/image (9).png>)
 
-## /allexceptionremove
+## /all exception remove
 
-The opposite of the allexception command, this removes the all-link exception from the channel.&#x20;
+The opposite of the all exception add command, this removes the all-link exception from the channel.&#x20;
 
 ![](<../../.gitbook/assets/image (22).png>)
+
+## /all suffix \[add/remove]
+
+This command makes it so that when you join any voice channel (which the bot can see), a suffix is added to your username, and removed when you leave.
+
+E.g. your name before joining could be: `Owner | Mr R3spect` and when you join: `Owner | Mr R3sp3ct OS` with OS being the prefix added (in this case meaning online staff)

@@ -2,7 +2,7 @@
 
 A voice channel generator is a voice channel that will generate other voice channels when a member joins it.
 
-## /voicegenerator
+## /generator create
 
 This command creates a voice channel generator. You can specify a voice channel, interface chanel, or category name if you wish, or can change them manually later.
 
@@ -10,7 +10,7 @@ This command creates a voice channel generator. You can specify a voice channel,
 
 ![](<../../.gitbook/assets/image (5).png>)
 
-## /removegenerator
+## /generator remove
 
 You can use this command to remove the voice channel generator in your server.
 

@@ -4,14 +4,20 @@ Category linking allows you to automatically give members a role(s) when they jo
 
 One great use of Category Linking is with the Voice Channel Generator.
 
-## /catlink
+## /category link
 
-The catlink command is used to create a link between all channels in the category and a role.
+The category link command is used to create a link between all channels in the category and a role.
 
-![catlink command](<../../.gitbook/assets/image (12).png>)
+![category link command](<../../.gitbook/assets/image (12).png>)
 
-## /catunlink
+## /category unlink
 
-The catunlink command is the opposite of the catlink command, and removes a category-role link.
+The category unlink command is the opposite of the category link command, and removes a category-role link.
 
 ![](<../../.gitbook/assets/image (3).png>)
+
+## /category suffix \[add/remove]
+
+This command makes it so that when you join any voice channel in a given category, a suffix is added to your username, and removed when you leave the channel.
+
+E.g. your name before joining could be: `Owner | Mr R3spect` and when you join: `Owner | Mr R3sp3ct OS` with OS being the prefix added (in this case meaning online staff)

@@ -21,4 +21,4 @@ Reacting to this message with these emojis will also edit something about your g
 
 ****
 
-There is also a selection of commands that you can use instead of using the buttons/reactions in the interface channel. A full run-through of these commands can be found on the interface commands page.
+There is also a selection of commands that you can use instead of using the buttons/reactions in the interface channel. A full run-through of these commands can be found on the [interface commands](commands/commands/interface-commands.md) page.
