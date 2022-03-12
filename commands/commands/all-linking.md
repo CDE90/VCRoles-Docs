@@ -34,5 +34,6 @@ This command makes it so that when you join any voice channel (which the bot can
 
 E.g. your name before joining could be: `Owner | Mr R3spect` and when you join: `Owner | Mr R3sp3ct OS` with OS being the prefix added (in this case meaning online staff)
 
-![](<../../.gitbook/assets/allsuffix.png>)
-![](<../../.gitbook/assets/allsuffixrem.png>)
+![all link suffix](<../../.gitbook/assets/allsuffix.png>)
+
+![all remove suffix](<../../.gitbook/assets/allsuffixrem.png>)
