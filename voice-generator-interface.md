@@ -1,10 +1,10 @@
 # Voice Generator Interface
 
-When you create a new voice channel generator ([using /voicegenerator](commands/commands/voice-channel-generators.md#voicegenerator)), a text channel will be created alongside the voice channel.
+When you create a new voice channel generator ([using /generator create](commands/commands/voice-channel-generators.md#generator-create)), a text channel will be created alongside the voice channel.
 
 An interface message will get sent to this channel:
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (1).png>)
 
 Pressing any of these buttons will change the mentioned aspect of your generated voice channel.
 

@@ -6,7 +6,7 @@ TTS is a feature of the bot, where it will join your voice channel, and read out
 
 With this command, you can choose to enable or disable TTS with this command, and whether or not to lock it to a certain role.
 
-![tts setup command](<../../.gitbook/assets/ttssetup.png>)
+![tts setup command](../../.gitbook/assets/ttssetup.png)
 
 ## /tts play
 
@@ -14,12 +14,12 @@ The main TTS command for your users. With this command, you can give the bot a m
 
 You need to be in a voice channel to use this command, and if a role was specified during setup, to have that role.
 
-![tts command where the bot leaves the channel after reading](<../../.gitbook/assets/ttsplay.png>)
+![tts command where the bot leaves the channel after reading](../../.gitbook/assets/ttsplay.png)
 
-![tts command where the bot will remain in the channel after reading](<../../.gitbook/assets/ttsplay2.png>)
+![tts command where the bot will remain in the channel after reading](../../.gitbook/assets/ttsplay2.png)
 
 ## /tts stop
 
 This command stops the current TTS message & makes the bot leave the voice channel.
 
-![tts stop command](<../../.gitbook/assets/tts stop).png>)
+![](<../../.gitbook/assets/image (25).png>)

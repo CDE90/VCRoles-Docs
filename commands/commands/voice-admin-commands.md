@@ -8,22 +8,22 @@ This can be used for moderating voice channels, to make sure members listen to s
 
 This command mutes either everyone or everyone but you in a voice channel.
 
-![vc mute command](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (20).png>)
 
 ## /vc unmute
 
 This command unmutes everyone in a voice channel.
 
-![vcunmute command](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (34).png>)
 
 ## /vc deafen
 
 This command deafens either everyone, or everyone but you in a voice channel.
 
-![vcdeafen command](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 ## /vc undeafen
 
 This command undeafens everyone in a voice channel.
 
-![vcundeafen command](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (28).png>)

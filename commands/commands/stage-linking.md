@@ -8,16 +8,20 @@ One great use of Stage Linking is creating private 'Stage Discussion' channels, 
 
 The stage link command is used to create a 'stage channel-role' link. Like voice channel links, you can create multiple role links per channel.
 
-![stage link command](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 ## /stage unlink
 
 The opposite of the stage link command, this command removes a channel-role link.
 
-![stage unlink](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (32).png>)
 
 ## /stage suffix \[add/remove]
 
 This command makes it so that when you join a stage channel, a suffix is added to your username, and removed when you leave the channel.
 
 E.g. your name before joining could be: `Owner | Mr R3spect` and when you join: `Owner | Mr R3sp3ct OS` with OS being the prefix added (in this case meaning online staff)
+
+![](<../../.gitbook/assets/image (24).png>)
+
+![](<../../.gitbook/assets/image (17).png>)
