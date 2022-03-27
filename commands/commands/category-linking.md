@@ -1,5 +1,9 @@
 # Category Linking
 
+{% hint style="danger" %}
+These commands are deprecated as they have been replaced by the commands listed [here](linking-and-unlinking.md).
+{% endhint %}
+
 Category linking allows you to automatically give members a role(s) when they join any voice channel in a category, and remove the role(s) once they leave.&#x20;
 
 One great use of Category Linking is with the Voice Channel Generator.
@@ -8,7 +12,7 @@ One great use of Category Linking is with the Voice Channel Generator.
 
 The category link command is used to create a link between all channels in the category and a role.
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 ## /category unlink
 

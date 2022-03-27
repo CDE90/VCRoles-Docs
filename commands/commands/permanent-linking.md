@@ -24,4 +24,4 @@ E.g. your name before joining could be: `Owner | Mr R3spect` and when you join: 
 
 ![](<../../.gitbook/assets/image (8).png>)
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)

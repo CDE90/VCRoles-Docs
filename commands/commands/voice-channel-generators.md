@@ -8,7 +8,7 @@ This command creates a voice channel generator. You can specify a voice channel,
 
 ![](<../../.gitbook/assets/image (9).png>)
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 ## /generator remove
 

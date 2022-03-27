@@ -4,7 +4,7 @@ When you create a new voice channel generator ([using /generator create](command
 
 An interface message will get sent to this channel:
 
-![](<.gitbook/assets/image (7) (1).png>)
+![](<.gitbook/assets/image (7) (1) (1).png>)
 
 Pressing any of these buttons will change the mentioned aspect of your generated voice channel.
 

@@ -20,23 +20,21 @@ Jump right into the quick start docs and start setting up the bot right now!
 
 ## Features
 
-VC Roles is a bot that will make your server and its voice channels much more interactive, enabling features such as: giving members roles when they join a voice channel, removing it on leave, reading TTS messages in voice channels, for those without a mic, creating and managing voice channels, and much more!&#x20;
+VC Roles is a bot that will make your server and its voice channels much more interactive, enabling features such as: giving members roles when they join a voice channel, removing it on leave or the reverse of that, reading TTS messages in voice channels, for those without a mic, creating and managing voice channels, and much more!&#x20;
 
 This is the bot you need to make your server more interactive, and bring your community together!
 
-* [Voice Channel - Role linking](commands/commands/voice-linking.md)
-  * A role(s) will be given to a member when they join the voice channel, and removed when they leave
+* [Channel - Role linking](commands/commands/linking-and-unlinking.md)
+  * Normal linking - A role(s) can be given to a member when they join a channel, and removed when they leave
+  * Reverse Linking - A role(s) can be removed from a member when they join a channel, and added when they leave
   * Great for hiding voice reply channels, or music bot command channels when they aren't needed
-* [Category - Role linking](commands/commands/category-linking.md)
-  * A role(s) will be given to a member when they join any voice channel in a category, and removed when they leave
-* [Stage Channel - Role linking](commands/commands/stage-linking.md)
-  * A role(s) will be given to a member when they join the stage channel, and removed when they leave
-  * Great for hiding a stage discussion channel so that only those who are in the stage channel can participate
 * [All channel - Role linking](commands/commands/all-linking.md)
   * A role(s) will be given to a member when they join any voice channel, and removed when they leave
   * Option to add exception channels (members aren't given the 'all' role(s) when they join/leave)
+  * Normal & Reverse Linking supported
 * [Permanent Role Links](commands/commands/permanent-linking.md)
   * A role(s) will be given to a member when they join the voice channel, and will remain after they leave.
+  * Normal & Reverse Linking supported
   * Great for easy user verification
 * [Voice Admin Commands](commands/commands/voice-admin-commands.md)
   * Used to _(un)_mute/_(un)_deafen all members in a voice channel
@@ -49,3 +47,6 @@ This is the bot you need to make your server more interactive, and bring your co
   * Generators also come with an interface channel, which contains additional configuration for users' private channels.
 * [Audit logging (for voice channels)](commands/commands/audit-logging.md)
   * See when members join, leave or change voice channels, and the roles that are given/removed by the bot.
+* [Advanced Linking](commands/commands/advanced-linking.md)
+  * A powerful tool for experienced users to link/unlink many channels at once
+  * Can be used for instantly setting up links for entire servers -> perfect for server designers!

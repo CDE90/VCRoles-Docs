@@ -1,5 +1,9 @@
 # Voice Linking
 
+{% hint style="danger" %}
+These commands are deprecated as they have been replaced by the commands listed [here](linking-and-unlinking.md).
+{% endhint %}
+
 Voice linking allows you to automatically give members a role(s) when they join a voice channel, and remove the role(s) once they leave.&#x20;
 
 One great use of Voice Linking is the ability to hide certain channels from members who aren't in the voice channel, for example, a voice reply channel, or a music bot commands channel.
@@ -8,7 +12,7 @@ One great use of Voice Linking is the ability to hide certain channels from memb
 
 The voice link command is used to create a link between a channel and a role. You can create multiple channel-role links per channel, allowing users to be given a selection of roles when they join a channel.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 {% hint style="warning" %}
 The 'VC Roles' role needs to be above the role which you are linking, otherwise, you will not be given the role.

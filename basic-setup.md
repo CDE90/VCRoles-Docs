@@ -10,9 +10,9 @@ Please note that you need `Administrator` permission to use all commands shown i
 
 ![Invite Page](<.gitbook/assets/image (31) (1).png>)
 
-**2.** Once the bot is in your server, you can link your first channel and role, using the [`/voice link`](commands/commands/voice-linking.md#voice-link) command.
+**2.** Once the bot is in your server, you can link your first channel and role, using the [/link](commands/commands/linking-and-unlinking.md#link) command.
 
-![voice link command](.gitbook/assets/unknown.png)
+![link command](<.gitbook/assets/image (12).png>)
 
 {% hint style="info" %}
 It may take a minute for slash commands to be registered in your server.
@@ -24,9 +24,9 @@ It may take a minute for slash commands to be registered in your server.
 If you are not given the role, you may need to check that the 'VC Roles' role is above the role you are trying to add, in the role list.
 {% endhint %}
 
-**4.** To unlink a voice channel and role, use the command [`/voice unlink`](commands/commands/voice-linking.md#voice-unlink)&#x20;
+**4.** To unlink a voice channel and role, use the command [/unlink](commands/commands/linking-and-unlinking.md#unlink)
 
-![](<.gitbook/assets/image (35).png>)
+![](<.gitbook/assets/image (13).png>)
 
 **5.** Now you know how to link and unlink voice channels, let's set up audit logging in your server. Use the command [`/logging`](commands/commands/audit-logging.md#logging).
 

@@ -4,7 +4,7 @@ TTS is a feature of the bot, where it will join your voice channel, and read out
 
 ## /tts setup
 
-With this command, you can choose to enable or disable TTS with this command, and whether or not to lock it to a certain role.
+With this command, you can choose to enable or disable TTS with this command, and whether or not to lock it to a certain role. You can also select whether by default the bot will leave the voice channel after reading the message
 
 ![tts setup command](../../.gitbook/assets/ttssetup.png)
 

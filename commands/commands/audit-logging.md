@@ -10,4 +10,4 @@ This command is used both to enable, and disable logging, and to set the logging
 
 ![logging command](<../../.gitbook/assets/image (30) (1).png>)
 
-![logging command](<../../.gitbook/assets/image (13) (1).png>)
+![logging command](<../../.gitbook/assets/image (13) (1) (1).png>)

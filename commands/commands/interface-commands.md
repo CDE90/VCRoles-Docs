@@ -6,7 +6,7 @@ Along with the methods of editing your private/generated voice channel mentioned
 
 Locks your generated voice channel - stops other members from being able to join the channel
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 ## /interface unlock
 
@@ -30,7 +30,7 @@ Shows your generated voice channel - shows your generated voice channel in the c
 
 Increases the member limit for your voice channel
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 ## /interface decrease
 
