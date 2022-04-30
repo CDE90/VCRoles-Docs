@@ -9,9 +9,6 @@
 
 * [Commands](commands/commands/README.md)
   * [Linking & Unlinking](commands/commands/linking-and-unlinking.md)
-  * [Voice Linking](commands/commands/voice-linking.md)
-  * [Stage Linking](commands/commands/stage-linking.md)
-  * [Category Linking](commands/commands/category-linking.md)
   * [All Linking](commands/commands/all-linking.md)
   * [Permanent Linking](commands/commands/permanent-linking.md)
   * [Voice Admin Commands](commands/commands/voice-admin-commands.md)

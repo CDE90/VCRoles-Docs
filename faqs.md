@@ -1,6 +1,18 @@
+---
+layout: editorial
+---
+
 # FAQs
 
-Here is a selection of VC Roles FAQs, if you feel like any are missing, let us know in our support server, or make a pull request on github.
+Here is a selection of VC Roles FAQs, if you feel like any are missing, let us know in our support server, or make a pull request on GitHub.
+
+### Why does it say I've reached my command limit?
+
+We have added an initial limit on how many commands a user can use per day - 15. If you go over this limit, don't worry, voting for the bot on Top.gg will give you unlimited command usage for the rest of the day, or at the end of each day (UTC) your limit will reset!
+
+#### Why have you done this?
+
+Hosting a growing bot like VC Roles isn't simple or cheap, and voting for the bot on Top.gg allows the bot to be seen by more people, and ultimately, allows us to continue developing VC Roles and making it better!
 
 
 
@@ -18,9 +30,7 @@ We switched to slash commands, as recommended by discord (and since we no longer
 
 ### **What is the bot's website?**&#x20;
 
-The bot's website has moved recently to: [https://www.vcroles.com/](https://www.vcroles.com)
-
-
+The bot's website is [https://www.vcroles.com/](https://www.vcroles.com) but you already know that!
 
 
 
