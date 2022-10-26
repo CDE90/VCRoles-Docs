@@ -1,18 +1,15 @@
 # Data Privacy
 
-The bot does not collect nor store any data about its users, not even your user ID or name. The bot does however, have to collect and store some data about your server.
+In order for the bot to function correctly, and save settings, it must collect and save some data, as listed below:
 
-Data access is restricted to **developers only**.
+Data access is restricted to **developers** and only when data access is necessary.
 
 ### Data Collected
 
 * `Guild ID` - used to store all data for your server safely
-* `Voice channel IDs` - When a voice channel is linked, its channel id is stored in our database.&#x20;
-  * You can remove this data from our storage by unlinking the channel
-* `Stage Channel IDs` - When a stage channel is linked, its channel id is stored in our database.&#x20;
-  * You can remove this data from our storage by unlinking the channel
-* `Category IDs` - When a category channel is linked, its channel id is stored in our database.&#x20;
-  * You can remove this data from our storage by unlinking the category
+* `Channel IDs` - When a channel is linked, its channel id is stored in our database.&#x20;
+  * You can remove this data from our database by unlinking the channel
 * `Role IDs` - When you link anything with a role, the role ID is stored in our database
+* `User IDs` - When using a voice generator, the user ID is stored to track the voice channel owner. This can be disabled by changing the generator options (removing owner)
 
-All data stored by the bot can be removed immediately by kicking the bot from your server
+All data stored by the bot can be removed immediately by removing the bot from your server

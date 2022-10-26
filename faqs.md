@@ -30,7 +30,7 @@ We switched to slash commands, as recommended by discord (and since we no longer
 
 ### **What is the bot's website?**&#x20;
 
-The bot's website is [https://www.vcroles.com/](https://www.vcroles.com) but you already know that!
+The bot's website is [https://www.vcroles.com/](https://www.vcroles.com/) but you already know that!
 
 
 

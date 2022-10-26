@@ -18,7 +18,6 @@
   * [Voice Channel Generators](commands/commands/voice-channel-generators.md)
   * [Force Unlinking](commands/commands/force-unlinking.md)
   * [Interface Commands](commands/commands/interface-commands.md)
-  * [Advanced Linking](commands/commands/advanced-linking.md)
 
 ## Misc.
 

@@ -25,3 +25,11 @@ E.g. your name before joining could be: `Owner | Mr R3spect` and when you join: 
 ![](<../../.gitbook/assets/image (8).png>)
 
 ![](<../../.gitbook/assets/image (27) (1).png>)
+
+## /permanent reverse link
+
+This command creates a reverse link between a channel and a role, as specified above.
+
+## /permanent reverse unlink
+
+Removes a 'permanent' reverse role link.
