@@ -22,4 +22,4 @@ You need to be in a voice channel to use this command, and if a role was specifi
 
 This command stops the current TTS message & makes the bot leave the voice channel.
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (11).png>)

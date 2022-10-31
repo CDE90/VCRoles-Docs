@@ -1,10 +1,6 @@
----
-layout: landing
----
-
 # Overview
 
-### [Add to your Discord Server!](https://discord.com/api/oauth2/authorize?client\_id=775025797034541107\&permissions=300944400\&scope=bot%20applications.commands)
+### [Add to your Discord Server!](https://discord.com/api/oauth2/authorize?client\_id=775025797034541107\&permissions=300944400\&scope=bot%20applications.commands) | [Upgrade to Premium](https://cde90.gumroad.com/l/vcroles)
 
 [Discord Support Server](https://discord.com/invite/yHU6qcgNPy) | [View Documentation](https://www.vcroles.com/) | [View GitHub](https://github.com/CDESamBotDev/VCRoles) | [Top.gg Page](https://top.gg/bot/775025797034541107)
 
@@ -49,5 +45,6 @@ This is the bot you need to make your server more interactive, and bring your co
 * [Voice Channel Generators](commands/commands/voice-channel-generators.md)
   * When a member joins the generator channel a new voice channel is made just for them, and is deleted when there are no more members in the channel.
   * Generators also come with an interface channel, which contains additional configuration for users' private channels.
+  * This is highly configurable, dive in and see what you can make!
 * [Audit logging (for voice channels)](commands/commands/audit-logging.md)
-  * See when members join, leave or change voice channels, and the roles that are given/removed by the bot.
+  * See when members join, leave or change channels, and the roles that are given/removed by the bot.

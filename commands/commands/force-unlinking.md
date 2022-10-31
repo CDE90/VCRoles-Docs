@@ -8,4 +8,4 @@ The forceunlink command will remove all links from the channel with the ID you p
 
 The following command removes all links from the channel with ID `775482510955118602`
 
-![forceunlink command](<../../.gitbook/assets/image (19) (1).png>)
+![forceunlink command](<../../.gitbook/assets/image (37).png>)

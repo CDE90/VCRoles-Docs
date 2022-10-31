@@ -1,10 +1,14 @@
----
-layout: editorial
----
-
 # FAQs
 
 Here is a selection of VC Roles FAQs, if you feel like any are missing, let us know in our support server, or make a pull request on GitHub.
+
+## What does Premium offer?
+
+For a list of the premium features offered, visit my [GumRoad site](https://cde90.gumroad.com/l/vcroles).
+
+## Why does it say 'You must be the channel owner to edit?'
+
+Since our voice generator update, we have added the ability to limit command usage to the owner of the voice channel. If the previous owner has left, you can use the [/interface claim](commands/commands/interface-commands.md#interface-claim) command to become the owner, and get access to the editing commands.
 
 ### Why does it say I've reached my command limit?
 
@@ -18,7 +22,7 @@ Hosting a growing bot like VC Roles isn't simple or cheap, and voting for the bo
 
 ### **What is the bot's prefix?**&#x20;
 
-The bot's prefix is `/`
+The bot doesn't have a prefix, since we use slash commands. (You could say the prefix is `/`)
 
 ****
 
