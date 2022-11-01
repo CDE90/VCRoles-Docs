@@ -96,3 +96,19 @@ Lists the options set for a generator channel. (options explained above)
 Sets the default role the bot edits permissions for e.g. when locking a channel this is the role permissions will be edited for. By default this is the @everyone role.
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+### /generator restrict\_role
+
+Sets a role which cannot use the voice channel generator - when a user with that role joins, they will be disconnected from the generated channel, and they won't be able to join newly created channels either.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### /generator hide\_at\_limit
+
+Controls whether the generator channel is hidden when the set channel limit is reached.
+
+{% hint style="info" %}
+Note this is a [Premium Only](https://cde90.gumroad.com/l/vcroles) feature
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

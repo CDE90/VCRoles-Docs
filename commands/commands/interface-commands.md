@@ -66,7 +66,7 @@ Invites a user to your voice channel. The user will receive a DM, letting them k
 
 <figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Note this is a [Premium Only](https://cde90.gumroad.com/l/vcroles) feature
 {% endhint %}
 
