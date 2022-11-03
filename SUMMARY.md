@@ -21,5 +21,6 @@
 
 ## Misc.
 
+* [Premium](misc./premium.md)
 * [Permissions](misc./permissions.md)
 * [Data Privacy](misc./data-privacy.md)
