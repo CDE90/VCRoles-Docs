@@ -4,6 +4,8 @@
 
 [Discord Support Server](https://discord.com/invite/yHU6qcgNPy) | [View Documentation](https://www.vcroles.com/) | [View GitHub](https://github.com/CDESamBotDev/VCRoles) | [Top.gg Page](https://top.gg/bot/775025797034541107)
 
+{% embed url="https://premium.vcroles.com/l/vcroles" %}
+
 ## Introduction
 
 Welcome to the VC Roles documentation! Here you'll find everything you need to get up and running with the bot!
