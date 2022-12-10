@@ -71,6 +71,10 @@ You can use this command to remove a voice channel generator in your server. You
 
 <figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
+### /generator force\_remove
+
+You can use this command when you don't know which channel is setup as the generator. It will remove all generators linked with your channel from the database **it will NOT delete** the actual channels from your server, just make them non-functional.
+
 ## More Commands:
 
 ### /generator toggle
