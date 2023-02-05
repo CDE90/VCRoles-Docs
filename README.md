@@ -1,5 +1,25 @@
 # Overview
 
+## The website has now changed. For up-to-date information and to use the new web dashboard, please visit our new site: [https://vcroles.com](https://vcroles.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### [Add to your Discord Server!](https://discord.com/api/oauth2/authorize?client\_id=775025797034541107\&permissions=1039166576\&scope=bot%20applications.commands) | [Upgrade to Premium](https://cde90.gumroad.com/l/vcroles)
 
 [Discord Support Server](https://discord.com/invite/yHU6qcgNPy) | [View Documentation](https://www.vcroles.com/) | [View GitHub](https://github.com/CDE90/VCRoles) | [Top.gg Page](https://top.gg/bot/775025797034541107)

@@ -1,5 +1,37 @@
 # Basic Setup
 
+## The website has now changed. For up-to-date information and to use the new web dashboard, please visit our new site: [https://vcroles.com](https://vcroles.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Setting up the bot may seem complicated at first, but this guide will take you through a step-by-step process.
 
 {% hint style="info" %}

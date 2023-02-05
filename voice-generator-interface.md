@@ -1,5 +1,37 @@
 # Voice Generator Interface
 
+## The website has now changed. For up-to-date information and to use the new web dashboard, please visit our new site: [https://vcroles.com](https://vcroles.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 When you create a new voice channel generator [using a /generator create command](commands/commands/voice-channel-generators.md#generator-create) (with the `user_editable` flag set to True), a text channel will be created alongside the voice channel.
 
 An interface message will get sent to this channel:

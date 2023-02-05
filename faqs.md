@@ -1,5 +1,37 @@
 # FAQs
 
+## The website has now changed. For up-to-date information and to use the new web dashboard, please visit our new site: [https://vcroles.com](https://vcroles.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Here is a selection of VC Roles FAQs, if you feel like any are missing, let us know in our support server, or make a pull request on GitHub.
 
 ## What does Premium offer?
